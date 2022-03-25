@@ -1,0 +1,11 @@
+
+
+.carousel-item {
+    width: 200px;
+    height: 200px; 
+}
+
+.carousel {
+    overflow-x: auto;
+    white-space: nowrap;
+}
